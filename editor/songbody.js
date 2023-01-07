@@ -629,10 +629,15 @@ export default class SongBody extends HTMLElement {
       console.log("newNode.textContent:" + newNode.textContent)
       const curPos = newNode.firstChild;
       if (!newNode.textContent.startsWith(" ")) {
-        console.log("WSTAWIAM PRZED");
         newNode.insertBefore(document.createTextNode(nbsp), newNode.firstChild);
       }
-      setCursorBefore(curPos);
+      if (curPos != null) {
+        setCursorBefore(curPos);
+      } else {
+        let empty = document.createTextNode("");
+        newNode.appendChild(empty);
+        setCursorBefore(empty);
+      }
       if (parentRow.childNodes.length==0) {
         parentRow.appendChild(document.createTextNode(nbsp));
       }

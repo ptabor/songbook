@@ -56,10 +56,14 @@ export function loadXMLDoc(filename)
 }
 
 export function setCursorBefore(node) {
-  let newr=document.createRange();
-  newr.setStartBefore(node);
-  newr.setEndBefore(node);
-  document.getSelection().removeAllRanges();
-  document.getSelection().addRange(newr);
-  console.log("New selection:", document.getSelection(), newr);
+  if (node) {
+    let newr = document.createRange();
+    newr.setStartBefore(node);
+    newr.setEndBefore(node);
+    document.getSelection().removeAllRanges();
+    document.getSelection().addRange(newr);
+    console.log("New selection:", document.getSelection(), newr);
+  } else {
+    console.warn("Cannot set selection to null");
+  }
 }
