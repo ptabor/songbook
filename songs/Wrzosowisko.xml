@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <song xmlns="http://21wdh.staszic.waw.pl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://21wdh.staszic.waw.pl https://songbook.21wdw.org/song.xsd" title="Wrzosowisko">
-	<alias></alias>
 	<text_author type="solo">Edward Stachura</text_author>
-	<comment></comment>
 	<composer type="solo">Krzysztof Myszkowski</composer>
 	<artist type="solo">Stare Dobre Małżeństwo</artist>
-	<translator></translator>
-	<original_title></original_title>
-	<lyric xmlns="http://21wdh.staszic.waw.pl">
+	<lyric>
 		<block type="other">
-			<row style="instr"><ch a="C"/><ch a="G"/><ch a="a"/><ch a="G"/><ch a="C"/><ch a="G"/><ch a="H7"/><ch a="C"/><ch a="G"/><ch a="a"/><ch a="G"/><ch a="C"/><ch a="G"/><ch a="H7"/></row>
+			<row important_over="false" style="instr"> <ch a="C"/><ch a="G"/><ch a="a"/><ch a="G"/><ch a="C"/><ch a="G"/><ch a="H7"/><ch a="C"/><ch a="G"/><ch a="a"/><ch a="G"/><ch a="C"/><ch a="G"/><ch a="H7"/></row>
 		</block>
 		<block type="verse">
 			<row important_over="false"><ch a="e"/>Zrozum to co powiem, spróbuj to zrozumieć dobrze<ch a="H7"/><ch a="G"/><ch a="D"/></row>
@@ -29,7 +25,7 @@
 			</bis>
 		</block>
 		<block type="other">
-			<row style="instr"><ch a="C"/><ch a="G"/><ch a="a"/><ch a="G"/><ch a="C"/><ch a="G"/><ch a="H7"/><ch a="C"/><ch a="G"/><ch a="a"/><ch a="G"/><ch a="C"/><ch a="G"/><ch a="H7"/></row>
+			<row important_over="false" style="instr"> <ch a="C"/><ch a="G"/><ch a="a"/><ch a="G"/><ch a="C"/><ch a="G"/><ch a="H7"/><ch a="C"/><ch a="G"/><ch a="a"/><ch a="G"/><ch a="C"/><ch a="G"/><ch a="H7"/></row>
 		</block>
 		<block type="verse">
 			<row important_over="false"><ch a="e"/> Nie myśl, że nie kocham lub, że tylko trochę<ch a="H7"/><ch a="G"/><ch a="D"/></row>
@@ -42,23 +38,17 @@
 			<row important_over="false"><ch a="a"/>Ze mną można tylko w dali zniknąć cicho<ch a="C"/><ch a="e"/></row>
 		</block>
 	</lyric>
-	<music metre="">
+	<music>
 		<guitar barre="0"/>
 	</music>
+	<keywords/>
 	<status>
-		<verificators><verificator>Krzysiek Cz.</verificator>
-			
-		</verificators>
-		<to_do></to_do>
 		<done>
-			
-			
 			<text/>
 			<authors/>
 		</done>
+		<verificators>
+			<verificator>Krzysiek Cz.</verificator>
+		</verificators>
 	</status>
-	<keywords/>
-	<music_source></music_source>
-	<album></album>
-	<genre></genre>
 </song>
