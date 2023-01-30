@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <song xmlns="http://21wdh.staszic.waw.pl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://21wdh.staszic.waw.pl https://songbook.21wdw.org/song.xsd" title="Zazdrość">
 	<artist type="band">Hey</artist>
-	<lyric xmlns="http://21wdh.staszic.waw.pl">
+	<lyric>
 		<block type="verse">
 			<row important_over="false">Są <ch a="h"/>chwil<ch a="e"/>e <ch a="A"/>gdy <ch a="fis"/>wolałabym <ch a="h"/>martwym <ch a="e"/>widzieć cię<ch a="A"/><ch a="fis"/></row>
 			<row important_over="false">Nie musiałabym się tobą dzielić nie nie<ch a="h"/><ch a="e"/><ch a="A"/><ch a="fis"/><ch a="h"/><ch a="e"/><ch a="A"/><ch a="fis"/></row>
@@ -15,24 +15,11 @@
 			<row important_over="false">A do nogi przymocuję złotą kulę z diamentami<ch a="h"/><ch a="e"/><ch a="A"/><ch a="fis"/><ch a="h"/><ch a="e"/><ch a="A"/><ch a="fis"/></row>
 		</block>
 	</lyric>
-	<music>
-		<guitar/>
-	</music>
-	<status>
-		<verificators><verificator>Krzysiek Cz.</verificator>
-			
-		</verificators>
-		<done/>
-		<to_do></to_do>
-	</status>
 	<keywords/>
-	<alias></alias>
-	<text_author type="solo"></text_author>
-	<composer type="solo"></composer>
-	<music_source></music_source>
-	<original_title></original_title>
-	<translator></translator>
-	<album></album>
-	<genre></genre>
-	<comment></comment>
+	<status>
+		<done/>
+		<verificators>
+			<verificator>Krzysiek Cz.</verificator>
+		</verificators>
+	</status>
 </song>
