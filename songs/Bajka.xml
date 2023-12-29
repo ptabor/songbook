@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://21wdh.staszic.waw.pl" xmlns:xhtml="http://www.w3.org/1999/xhtml" title="Bajka">
-	<comment>Piosenka pochodzi z 19 Ogólnopolskiego Studenckiego Przeglądu Piosenki Turystycznej Yapa '94.Gość spiewał ją przygrywając sobie na bembenku.Proszę nie spodziewać się akordów :)</comment>
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://21wdh.staszic.waw.pl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://21wdh.staszic.waw.pl https://songbook.21wdw.org/song.xsd" title="Bajka">
+	<comment>Piosenka pochodzi z 19 Ogólnopolskiego Studenckiego Przeglądu Piosenki Turystycznej Yapa &#039;94.Gość spiewał ją przygrywając sobie na bembenku.Proszę nie spodziewać się akordów :)</comment>
 	<artist type="solo">Paweł Nowaczyk</artist>
 	<lyric>
 		<block type="verse">
@@ -51,7 +51,7 @@
 		<guitar barre="0"/>
 	</music>
 	<keywords/>
-	<album>Yapa '94</album>
+	<album>Yapa &#039;94</album>
 	<status>
 		<done>
 			<text/>
