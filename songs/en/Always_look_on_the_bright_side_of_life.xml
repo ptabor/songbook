@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://21wdh.staszic.waw.pl" xmlns:xhtml="http://www.w3.org/1999/xhtml" title="Always look on the bright side of life">
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://21wdh.staszic.waw.pl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://21wdh.staszic.waw.pl https://songbook.21wdw.org/song.xsd" title="Always look on the bright side of life">
 	<alias>Bright Side of Life</alias>
 	<text_author type="solo">Eric Idle</text_author>
 	<artist type="band">Monthy Python</artist>
@@ -7,37 +7,37 @@
 		<block type="verse">
 			<row important_over="false">Some <ch a="a"/>things in life are <ch a="D"/>bad they can <ch a="G"/>really make you <ch a="e"/>mad</row>
 			<row important_over="false">Other things just make you swear and curse</row>
-			<row important_over="false">When you've chewing a life's gristle Don't grumble give a whistle</row>
-			<row important_over="false">And this'll help things turn out for the best</row>
+			<row important_over="false">When you&#039;ve chewing a life&#039;s gristle Don&#039;t grumble give a whistle</row>
+			<row important_over="false">And this&#039;ll help things turn out for the best</row>
 		</block>
 		<block type="chorus">
 			<row important_over="false">And always look on the bright side of life</row>
 			<row important_over="false">Alw<ch a="G"/>ays <ch a="e"/>look on the <ch a="a"/>light <ch a="D7"/>side of <ch a="G"/>life<ch a="e"/><ch a="a"/><ch a="D7"/></row>
 		</block>
 		<block type="verse">
-			<row important_over="false">If life seems jolly rotten there's something you've forgotten</row>
-			<row important_over="false">and that's to laugh and smile and dance and sing.</row>
-			<row important_over="false">When you're feeling in the dumps don't be silly chumps</row>
-			<row important_over="false">Just purse your lips and whistle - that's the thing</row>
+			<row important_over="false">If life seems jolly rotten there&#039;s something you&#039;ve forgotten</row>
+			<row important_over="false">and that&#039;s to laugh and smile and dance and sing.</row>
+			<row important_over="false">When you&#039;re feeling in the dumps don&#039;t be silly chumps</row>
+			<row important_over="false">Just purse your lips and whistle - that&#039;s the thing</row>
 		</block>
 		<block type="chorus">
 			<row important_over="false">And always look on the bright side of life</row>
 			<row important_over="false">Come on always look on the bright side of life</row>
 		</block>
 		<block type="verse">
-			<row important_over="false">For life is quite absurd and death's the final word</row>
+			<row important_over="false">For life is quite absurd and death&#039;s the final word</row>
 			<row important_over="false">you must always face the curtain with a bow</row>
 			<row important_over="false">Forget about your sin - give the audience a grin</row>
-			<row important_over="false">Enjoy it - it's your last chance anyhow.</row>
+			<row important_over="false">Enjoy it - it&#039;s your last chance anyhow.</row>
 		</block>
 		<block type="chorus">
 			<row important_over="false">So always look on the bright side of death</row>
 			<row important_over="false">just before you draw your terminal breath</row>
 		</block>
 		<block type="verse">
-			<row important_over="false">Life's a pice of shit when you look at it</row>
-			<row important_over="false">Life's a laugh and death's a joke that's true</row>
-			<row important_over="false">You'll see it's all a show keep'em laughing as you go</row>
+			<row important_over="false">Life&#039;s a pice of shit when you look at it</row>
+			<row important_over="false">Life&#039;s a laugh and death&#039;s a joke that&#039;s true</row>
+			<row important_over="false">You&#039;ll see it&#039;s all a show keep&#039;em laughing as you go</row>
 			<row important_over="false">just remember that the last laugh is on you</row>
 		</block>
 		<block type="chorus">
