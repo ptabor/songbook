@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<song title="Zuzanna" xmlns="http://21wdh.staszic.waw.pl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://21wdh.staszic.waw.pl https://songbook.21wdw.org/song.xsd">
-	<alias></alias>
+<song xmlns="http://21wdh.staszic.waw.pl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://21wdh.staszic.waw.pl https://songbook.21wdw.org/song.xsd" title="Zuzanna">
 	<text_author type="solo">Leonard Cohen</text_author>
-	<comment></comment>
 	<composer type="solo">Leonard Cohen</composer>
 	<artist type="solo">Leonard Cohen</artist>
 	<translator>Maciej Zembaty</translator>
 	<original_title>Susanne</original_title>
-	<lyric xmlns="http://21wdh.staszic.waw.pl">
+	<lyric>
 		<block type="verse">
 			<row important_over="true">W swe mi<ch a="E"/>ejsce nad rzeką zabiera cię Zuzanna,</row>
 			<row important_over="true">Możesz sł<ch a="fis"/>uchać plusku łodzi, możesz zostać z nią do rana.</row>
@@ -39,29 +37,20 @@
 			<row important_over="false">Wiesz, że m<ch a="E"/>ożna jej zaufać, bo dotkn<ch a="fis"/>ęła twego ciała myślą sw<ch a="E"/>ą.</row>
 		</block>
 	</lyric>
-	
-	
-	
 	<music metre="4/4">
 		<guitar barre="0"/>
 	</music>
-	<keywords></keywords>
+	<keywords/>
 	<album>Songs of Leonard Cohen</album>
 	<genre>Poezja śpiewana</genre>
 	<status>
 		<done>
-			
-			
-			
 			<text/>
 			<authors/>
 			<chords>chord positioning</chords>
 		</done>
 		<verificators>
 			<verificator>Michał Korch</verificator>
-			
 		</verificators>
-		<to_do></to_do>
 	</status>
-	<music_source></music_source>
 </song>
