@@ -21,7 +21,7 @@
     </block>
     <block type="chorus">
       <bis times="2">
-        <row important_over="never" sidechords="C a F G"> Ko ko ko, ko ko, słuchaj, będziemy mieć jajko.</row>
+        <row important_over="never" sidechords="C a F G">Ko ko ko, ko ko, słuchaj, będziemy mieć jajko.</row>
       </bis>
     </block>
     <block type="verse">
@@ -32,7 +32,7 @@
     </block>
     <block type="chorus">
       <bis times="2">
-        <row important_over="never" sidechords="C a F G"> Ko ko ko, ko ko, i wygrywać preludia. </row>
+        <row important_over="never" sidechords="C a F G">Ko ko ko, ko ko, i wygrywać preludia. </row>
       </bis>
     </block>
     <block type="verse">
