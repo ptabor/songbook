@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <song xmlns="http://21wdh.staszic.waw.pl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://21wdh.staszic.waw.pl https://spiewaj.com/song.xsd" title="Pod kątem ostrym">
+  <alias>Dobrze, że wróciłaś</alias>
   <text_author type="solo">Adam Ziemianin</text_author>
-  <composer>Krzysztof Myszkowski</composer>
+  <composer type="solo">Krzysztof Myszkowski</composer>
   <artist type="band">Stare Dobre Małżeństwo</artist>
   <lyric>
     <block type="other">
-      <row important_over="false">1struna) 7---7---*8--8--*5---5--*7--7--*8--8--*7--7--*5</row>
-      <row important_over="false">2struna) -- 8--8----8---8---8--8---8--8---8--8---8--8----8</row>
-      <row important_over="false">*-struna wcześniej uderzana .</row>
+      <row important_over="never">1struna) 7---7---*8--8--*5---5--*7--7--*8--8--*7--7--*5</row>
+      <row important_over="never">2struna) -- 8--8----8---8---8--8---8--8---8--8---8--8----8</row>
+      <row important_over="never">*-struna wcześniej uderzana .</row>
     </block>
     <block type="verse">
       <row important_over="never">Dom mój ostatnio <ch a="G"/><ch a="C"/></row>
@@ -28,7 +29,7 @@
       <row important_over="never">Na równi pochyłej<ch a="G"/><ch a="D"/></row>
     </block>
     <block type="verse">
-      <bis times="2">
+      <bis times="5">
         <row important_over="never">Dobrze że wróciłaś<ch a="G"/><ch a="C"/></row>
         <row important_over="never">Kwiaty w wazonie<ch a="D"/><ch a="e"/></row>
         <row important_over="never">Znów oswojone<ch a="F"/><ch a="C"/></row>
