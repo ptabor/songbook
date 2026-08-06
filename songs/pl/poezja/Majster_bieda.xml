@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <song xmlns="http://21wdh.staszic.waw.pl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://21wdh.staszic.waw.pl https://spiewaj.com/song.xsd" title="Majster bieda">
+	<text_author type="solo">Wojciech Bellon</text_author>
+	<composer type="solo">Wojciech Bellon</composer>
 	<artist type="band">Wolna Grupa Bukowina</artist>
 	<lyric>
 		<block type="other">
-			<row important_over="false" style="instr">
-				<ch a="D"/><ch a="G"/><ch a="fis"/><ch a="e"/><ch a="A"/><ch a="D"/></row>
+			<row important_over="false" style="instr"> <ch a="D"/><ch a="G"/><ch a="fis"/><ch a="e"/><ch a="A"/><ch a="D"/></row>
 		</block>
 		<block type="verse">
 			<row important_over="true">Sk<ch a="D"/>ąd przychodził kt<ch a="G"/>o go znał</row>
@@ -27,7 +28,7 @@
 			<row important_over="false">Gd<ch a="D"/>y do ognia si<ch a="G"/>ę przysi<ch a="A"/>adał</row>
 			<row important_over="false">Wt<ch a="D"/>ulał się w krąg ci<ch a="A"/>epła jak w kożuch</row>
 			<row important_over="false">Zn<ch a="fis"/>użony drogą wędr<ch a="h"/>owiec boży</row>
-			<row important_over="false">Zas<ch a="A"/>ypiał długo g<ch a="G"/>apiąc się w noc</row>
+			<row important_over="false">Zas<ch a="A"/>ypiał długo g<ch a="G"/>apiąc się w noc<ch a="fis"/><ch a="e"/></row>
 			<row important_over="false">M<ch a="A"/>ajster Bi<ch a="D"/>eda<ch a="G"/><ch a="fis"/><ch a="e"/><ch a="A"/><ch a="D"/></row>
 		</block>
 		<block type="verse">
@@ -43,31 +44,19 @@
 			<row important_over="false">Wi<ch a="A"/>atrem niesiony popł<ch a="G"/>ynął w prz<ch a="A"/>eszłość<ch a="G"/><ch a="fis"/><ch a="e"/></row>
 			<row important_over="false">Ma<ch a="D"/>jster Bi<ch a="A"/>eda<ch a="G"/><ch a="fis"/><ch a="e"/><ch a="A"/><ch a="D"/></row>
 		</block>
-	</lyric>	<music metre="4/4">
-		<guitar/>
-	</music>
+	</lyric>
+	<music metre="4/4"/>
+	<keywords/>
+	<album>Bukowina</album>
+	<genre>Poezja śpiewana</genre>
 	<status>
-		<verificators><verificator>Onufry</verificator>
-			
-		</verificators>
 		<done>
-			
-			
-			
 			<text/>
 			<authors/>
 			<chords>chord positioning</chords>
 		</done>
-		<to_do/>
+		<verificators>
+			<verificator>Onufry</verificator>
+		</verificators>
 	</status>
-	<keywords/>
-	<alias/>
-	<text_author type="solo">Wojciech Bellon</text_author>
-	<composer type="solo">Wojciech Bellon</composer>
-	<music_source/>
-	<original_title/>
-	<translator/>
-	<album>Bukowina</album>
-	<genre>Poezja śpiewana</genre>
-	<comment/>
 </song>
